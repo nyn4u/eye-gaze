@@ -1,0 +1,12 @@
+opencv-python
+numpy
+pandas
+scikit-learn
+tensorflow>=2.9
+joblib
+scipy
+matplotlib
+tqdm
+# optional
+# dlib
+# imutils
